@@ -22,7 +22,7 @@ const Properties = () => {
                         >
 
                         </div>
-                        <div className="absolute inset-0 bg-gray-500 bg-opacity-0 hover:bg-opacity-50 transition-all duration-300"></div>
+                        <div className="absolute inset-0 bg-gray-500 opacity-60 hover:bg-opacity-0 transition-all duration-300"></div>
                         <p className='text-xl font-Roboto font-semibold absolute bottom-4 right-3 text-white'>Property Management</p>
                     </div>
                     <div className="relative h-[320px] w-[400px]">
@@ -32,7 +32,7 @@ const Properties = () => {
                         >
 
                         </div>
-                        <div className="absolute inset-0 bg-gray-500 bg-opacity-0 hover:bg-opacity-50 transition-all duration-300"></div>
+                        <div className="absolute inset-0 bg-gray-500 opacity-60 hover:bg-opacity-0 transition-all duration-300"></div>
                         <p className='text-xl font-Roboto font-Roboto font-semibold absolute bottom-4 right-3 text-white'>Body Corporate Administration</p>
                     </div>
                     <div className="relative h-[320px] w-[400px]">
@@ -42,7 +42,7 @@ const Properties = () => {
                         >
 
                         </div>
-                        <div className="absolute inset-0 bg-gray-500 bg-opacity-0 hover:bg-opacity-50 transition-all duration-300"></div>
+                        <div className="absolute inset-0 bg-gray-500 opacity-60 hover:bg-opacity-0 transition-all duration-300"></div>
                         <p className='text-xl font-Roboto font-semibold absolute bottom-4 right-3 text-white'>Building Management</p>
                     </div>
                     <div className="relative h-[320px] w-[400px]">
@@ -52,7 +52,7 @@ const Properties = () => {
                         >
 
                         </div>
-                        <div className="absolute inset-0 bg-gray-500 bg-opacity-0 hover:bg-opacity-50 transition-all duration-300"></div>
+                        <div className="absolute inset-0 bg-gray-500 opacity-60 hover:bg-opacity-0 transition-all duration-300"></div>
                         <p className='text-xl font-Roboto font-semibold absolute bottom-4 right-3 text-white'>Home Decorating Services</p>
                     </div>
                     <div className="relative h-[320px] w-[400px]">
@@ -62,17 +62,17 @@ const Properties = () => {
                         >
 
                         </div>
-                        <div className="absolute inset-0 bg-gray-500 bg-opacity-0 hover:bg-opacity-50 transition-all duration-300"></div>
+                        <div className="absolute inset-0 bg-gray-500 opacity-60 hover:bg-opacity-0 transition-all duration-300"></div>
                         <p className='text-xl font-Roboto font-semibold absolute bottom-4 right-3 text-white'>Investment Properties</p>
                     </div>
                     <div className="relative h-[320px] w-[400px]">
                         <div
-                            className="w-full h-full bg-cover bg-center transition-all duration-300 opacity-70"
+                            className="w-full h-full bg-cover bg-center transition-all duration-300 hover:opacity-0"
                             style={{ backgroundImage: `url(${property6})` }}
                         >
 
                         </div>
-                        <div className="absolute inset-0 bg-gray-500 bg-opacity-0 hover:bg-opacity-50 transition-all duration-300"></div>
+                        <div className="absolute inset-0 bg-gray-500 opacity-60 hover:bg-opacity-0 transition-all duration-300"></div>
                         <p className='text-xl font-semibold font-Roboto absolute bottom-4 right-3 text-white'>Rental Properties</p>
                     </div>
 

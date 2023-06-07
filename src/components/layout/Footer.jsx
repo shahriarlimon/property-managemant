@@ -1,8 +1,5 @@
 import React from 'react';
 import { BsInstagram,  BsLinkedin, BsFacebook,BsYoutube,BsTwitter } from 'react-icons/bs';
-import { RiLinkedinFill } from 'react-icons/ri';
-import { FiTwitter } from 'react-icons/fi'
-import { AiOutlineFacebook } from 'react-icons/ai'
 import { Link } from 'react-router-dom'
 
 const Footer = () => {
